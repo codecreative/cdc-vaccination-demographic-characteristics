@@ -1,5 +1,11 @@
 # cdc-vaccination-demographic-characteristics
 
+[![Project Status: Concept – Minimal or no implementation has been done
+yet, or the repository is only intended to be a limited example, demo,
+or
+proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
+
 Saving the data that is powering this page to see how it changes over time and how often
 https://covid.cdc.gov/covid-data-tracker/#vaccination-demographic
 
